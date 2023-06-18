@@ -1,4 +1,4 @@
-#Auto detect text files and perform LF normalization
+<!DOCTYPE html>
 *text=auto
 body {
     font: 20px Montserrat, sans-serif;
